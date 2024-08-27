@@ -12,6 +12,10 @@
 <h3 align="center"> 🛠️ Tech Stack 🛠️</h>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+    <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
+  </a>
+  <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -26,7 +30,4 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
-  <a href="https://hhpluscertificateofcompletion.oopy.io/">
-    <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
-  </a>
 </p>
