@@ -1,14 +1,3 @@
-
-
-<p align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Loafly&show_icons=true&theme=merko">
-</p>
-
-
 <h3 align="center"> 🛠️ Tech Stack 🛠️</h>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
